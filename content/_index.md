@@ -54,9 +54,8 @@ This site is independent, but proudly aligned with the mission of the **National
 
 ## Stay Connected
 
-- [GitHub](https://github.com/YOUR-GITHUB-HERE)
-- [Email Us](mailto:you@devsgonewild.com)
-- RSS feed coming soon
+- [GitHub](https://github.com/devsgonewild)
+- [Email Us](mailto:thecrew@devsgonewild.com)
 
 ---
 
