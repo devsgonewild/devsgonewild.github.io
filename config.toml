@@ -1,0 +1,5 @@
+baseURL = "https://devsgonewild.github.io/"
+languageCode = "en-gb"
+title = "Devs Gone Wild"
+theme = "PaperMod"
+
